@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498908f6-182f-4662-9986-e1473fdd70ad" name="Changes" comment="" />
+    <list default="true" id="498908f6-182f-4662-9986-e1473fdd70ad" name="Changes" comment="Added Java program: NonExistentArrayIndexAccessException.java to demonstrate exception handling for case where a non-existent array index is accessed.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CreateListInAnOutputFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WritingFileException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,14 +43,7 @@
       <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Exceptions_Project\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NonExistentArrayIndexAccessException">
-    <configuration name="CreateListInAnOutputFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreateListInAnOutputFile" />
-      <module name="Hazra_Nandita_Exceptions_Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WritingFileException">
     <configuration name="NonExistentArrayIndexAccessException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NonExistentArrayIndexAccessException" />
       <module name="Hazra_Nandita_Exceptions_Project" />
@@ -57,6 +53,13 @@
     </configuration>
     <configuration name="NumberNotDivisibleByZeroException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberNotDivisibleByZeroException" />
+      <module name="Hazra_Nandita_Exceptions_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WritingFileException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WritingFileException" />
       <module name="Hazra_Nandita_Exceptions_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WritingFileException" />
         <item itemvalue="Application.NonExistentArrayIndexAccessException" />
         <item itemvalue="Application.NumberNotDivisibleByZeroException" />
-        <item itemvalue="Application.CreateListInAnOutputFile" />
       </list>
     </recent_temporary>
   </component>
@@ -104,12 +107,20 @@
       <option name="project" value="LOCAL" />
       <updated>1665635380927</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Java program: NonExistentArrayIndexAccessException.java to demonstrate exception handling for case where a non-existent array index is accessed.">
+      <created>1665641556294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665641556294</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added Java program: NumberNotDivisibleByZeroException.java to demonstrate exception handling for number not divisible by zero case." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: NumberNotDivisibleByZeroException.java to demonstrate exception handling for number not divisible by zero case." />
+    <MESSAGE value="Added Java program: NonExistentArrayIndexAccessException.java to demonstrate exception handling for case where a non-existent array index is accessed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: NonExistentArrayIndexAccessException.java to demonstrate exception handling for case where a non-existent array index is accessed." />
   </component>
 </project>
