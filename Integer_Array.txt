@@ -1,0 +1,10 @@
+Value at Array index 0 = 8888
+Value at Array index 1 = 100
+Value at Array index 2 = 275
+Value at Array index 3 = 5000
+Value at Array index 4 = 950
+Value at Array index 5 = 630
+Value at Array index 6 = 48
+Value at Array index 7 = 10020002
+Value at Array index 8 = 755678
+Value at Array index 9 = 32
