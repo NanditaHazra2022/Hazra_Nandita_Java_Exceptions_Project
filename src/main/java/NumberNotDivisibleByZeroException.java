@@ -10,7 +10,7 @@ public class NumberNotDivisibleByZeroException
     public static void main (String [] args)
     {   // Start of execution thread.
 
-        // try-catch block for exception handling
+        // try-catch block for exception handling.
         try {
 
             int a = 30, b = 0;
@@ -21,7 +21,8 @@ public class NumberNotDivisibleByZeroException
         }
         catch(ArithmeticException e) {
 
-            System.out.println ("Can't divide a number by 0");
+            System.err.println ("Caught ArithmeticException: "
+            + e.getMessage());
 
         }
 
