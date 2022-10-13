@@ -43,7 +43,7 @@
       <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Exceptions_Project\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileDoesNotExistException">
+  <component name="RunManager" selected="Application.StringNullException">
     <configuration name="FileDoesNotExistException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileDoesNotExistException" />
       <module name="Hazra_Nandita_Exceptions_Project" />
@@ -60,6 +60,13 @@
     </configuration>
     <configuration name="NumberNotDivisibleByZeroException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberNotDivisibleByZeroException" />
+      <module name="Hazra_Nandita_Exceptions_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringNullException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringNullException" />
       <module name="Hazra_Nandita_Exceptions_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringNullException" />
         <item itemvalue="Application.FileDoesNotExistException" />
         <item itemvalue="Application.NumberNotDivisibleByZeroException" />
         <item itemvalue="Application.NonExistentArrayIndexAccessException" />
@@ -143,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665644765178</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Java program: FileDoesNotExistException.java to demonstrate exception handling for file does not exist case.">
+      <created>1665646454780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665646454780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +169,7 @@
     <MESSAGE value="Modified Java program file name to WritingFileException.java. Modified import statement in it. Added comments." />
     <MESSAGE value="Modified Java program: NonExistentArrayIndexAccessException.java to include System.err.println method." />
     <MESSAGE value="Modified Java program: NumberNotDivisibleByZeroException.java to include System.err.println method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: NumberNotDivisibleByZeroException.java to include System.err.println method." />
+    <MESSAGE value="Added Java program: FileDoesNotExistException.java to demonstrate exception handling for file does not exist case." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: FileDoesNotExistException.java to demonstrate exception handling for file does not exist case." />
   </component>
 </project>
