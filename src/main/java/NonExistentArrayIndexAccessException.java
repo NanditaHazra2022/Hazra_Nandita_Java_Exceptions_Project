@@ -8,15 +8,24 @@ public class NonExistentArrayIndexAccessException
 {   // Start of main class.
 
     // Starting point of execution.
-    public static void main(String args[])
+    public static void main(String[] args)
     {   // Start of execution thread.
 
         // try-catch block for exception handling.
         try {
 
-            int array [] = {1, 2, 3, 4, 5};
+            // Creating integer array.
+            int[] arr = {1, 2, 3, 4, 5};
 
-            array[6] = 9; // Accessing 7th element in an array of size 5.
+            // for loop to print array elements.
+            for (
+                    int i = 3;
+                    i < 10;
+                    i++
+            ) {
+                System.out.println(arr[i]);
+            }
+
 
         }
         catch(ArrayIndexOutOfBoundsException e) {
