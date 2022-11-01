@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498908f6-182f-4662-9986-e1473fdd70ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/NonExistentArrayIndexAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NonExistentArrayIndexAccessException.java" afterDir="false" />
+    <list default="true" id="498908f6-182f-4662-9986-e1473fdd70ad" name="Changes" comment="Modified Java program: NonExistentArrayIndexAccessException.java to remove 2 warnings as in the code.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NonExistentStringElementAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NonExistentStringElementAccessException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberNotDivisibleByZeroException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringNullException.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
       <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Exceptions_Project\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NonExistentArrayIndexAccessException">
+  <component name="RunManager" selected="Application.StringNullException">
     <configuration name="ArrayListIterations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayListIterations" />
       <module name="Hazra_Nandita_Exceptions_Project" />
@@ -94,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringNullException" />
+        <item itemvalue="Application.NonExistentStringElementAccessException" />
         <item itemvalue="Application.NonExistentArrayIndexAccessException" />
         <item itemvalue="Application.FileDoesNotExistException" />
         <item itemvalue="Application.ArrayListIterations" />
-        <item itemvalue="Application.NonExistentStringElementAccessException" />
-        <item itemvalue="Application.StringNullException" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667285176317</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Modified Java program: NonExistentArrayIndexAccessException.java to remove 2 warnings as in the code.">
+      <created>1667285866778</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667285866778</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -204,6 +214,7 @@
     <MESSAGE value="Added Java program: NonExistentStringElementAccessException.java to demonstrate exception handling for non-existent string element access case." />
     <MESSAGE value="Modified Java program: FileDoesNotExistException.java to remove 1 warning in the code." />
     <MESSAGE value="Modified Java program: FileDoesNotExistException.java to add FileReader class' in-built close method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: FileDoesNotExistException.java to add FileReader class' in-built close method." />
+    <MESSAGE value="Modified Java program: NonExistentArrayIndexAccessException.java to remove 2 warnings as in the code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified Java program: NonExistentArrayIndexAccessException.java to remove 2 warnings as in the code." />
   </component>
 </project>
