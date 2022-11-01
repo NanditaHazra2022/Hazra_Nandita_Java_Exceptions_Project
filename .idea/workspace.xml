@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="498908f6-182f-4662-9986-e1473fdd70ad" name="Changes" comment="" />
+    <list default="true" id="498908f6-182f-4662-9986-e1473fdd70ad" name="Changes" comment="Added Java program: NonExistentStringElementAccessException.java to demonstrate exception handling for non-existent string element access case.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileDoesNotExistException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileDoesNotExistException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,16 +46,16 @@
       <recent name="C:\Users\hazra\Desktop\Hazra_Nandita_Exceptions_Project\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NonExistentStringElementAccessException">
-    <configuration name="FileDoesNotExistException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileDoesNotExistException" />
+  <component name="RunManager" selected="Application.FileDoesNotExistException">
+    <configuration name="ArrayListIterations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListIterations" />
       <module name="Hazra_Nandita_Exceptions_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonExistentArrayIndexAccessException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NonExistentArrayIndexAccessException" />
+    <configuration name="FileDoesNotExistException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileDoesNotExistException" />
       <module name="Hazra_Nandita_Exceptions_Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileDoesNotExistException" />
+        <item itemvalue="Application.ArrayListIterations" />
         <item itemvalue="Application.NonExistentStringElementAccessException" />
         <item itemvalue="Application.StringNullException" />
-        <item itemvalue="Application.FileDoesNotExistException" />
         <item itemvalue="Application.NumberNotDivisibleByZeroException" />
-        <item itemvalue="Application.NonExistentArrayIndexAccessException" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665647825711</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added Java program: NonExistentStringElementAccessException.java to demonstrate exception handling for non-existent string element access case.">
+      <created>1665659116729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665659116729</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +188,7 @@
     <MESSAGE value="Modified Java program: NumberNotDivisibleByZeroException.java to include System.err.println method." />
     <MESSAGE value="Added Java program: FileDoesNotExistException.java to demonstrate exception handling for file does not exist case." />
     <MESSAGE value="Added Java program: StringNullException.java to demonstrate exception handling for string is null case." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: StringNullException.java to demonstrate exception handling for string is null case." />
+    <MESSAGE value="Added Java program: NonExistentStringElementAccessException.java to demonstrate exception handling for non-existent string element access case." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java program: NonExistentStringElementAccessException.java to demonstrate exception handling for non-existent string element access case." />
   </component>
 </project>
