@@ -30,6 +30,8 @@ public class FileDoesNotExistException
             while ((i = fr.read()) != -1) {
                 System.out.print((char) i);
             }
+            fr.close();
+            System.out.println("FileReader closed!");
         }   // End of try block.
         catch (FileNotFoundException e)
         {   // Start of catch block.
